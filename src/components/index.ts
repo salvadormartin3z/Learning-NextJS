@@ -1,1 +1,3 @@
-export { SidebarPage} from './Sidebar'
+
+
+export { Sidebar } from './Sidebar';
